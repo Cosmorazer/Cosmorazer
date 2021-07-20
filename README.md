@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cosmorazer
+- 👋 Hi, I’m Aditya Agrawal / Cosmorazer
 - 👀 I’m interested in Web Dev, Competitive Coding, Data Science, Thriller animes and movies, guitar and piano.
 - 🌱 I’m currently learning lots of things simultaneously, and it is overwhelming ("haha", laughs nervously) :P
 - 💞️ I’m looking to collaborate on Web Dev or any Python, C++, Java projects
